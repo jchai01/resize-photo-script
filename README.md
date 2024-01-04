@@ -18,7 +18,7 @@ sudo chmod +x convert.sh
 ```
 It will output a another folder with all the converted images.
 
-The current setting converts all photos to 1280x960, a 4:3 aspect ratio. To change it, simply go into the script and change the value of the target resolution. For example, changing it to "1280x720" instead.
+The current setting converts all photos to 1280x960, a 4:3 aspect ratio. To change it, simply go into the script and change the value of the target-ratio. For example, changing the value to "1280x720" instead.
 
 ### Known Issues
 If some of the images fail to convert, it could be the naming of the file. Try changing the file name and running the script again.
